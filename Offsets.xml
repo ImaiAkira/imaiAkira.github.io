@@ -8,12 +8,12 @@
     <FovMax>10C</FovMax>
   </DX9>
   <DX11>
-    <StructureAddress>1B24832</StructureAddress>
+    <StructureAddress>1B24830</StructureAddress>
     <ZoomCurrent>118</ZoomCurrent>
     <ZoomMax>120</ZoomMax>
     <FovCurrent>124</FovCurrent>
     <FovMax>12C</FovMax>
   </DX11>
-  <LastUpdate>2019-12-24 - 5.05 我配吗</LastUpdate>
-  <Version>2019.12.24.0000.0000</Version>
+  <LastUpdate>2019-11-20 - 5.01 最后的更新</LastUpdate>
+  <Version>2019.11.08.0000.0000</Version>
 </Root>
